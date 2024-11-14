@@ -1,0 +1,26 @@
+-------------------
+-------NOTAS-------
+-------------------
+
+Diferentes herramientas:
+    - Scraping: BeautifulSoup
+    - Visualización: https://python-graph-gallery.com/ (ejemplos gráficos con imagen + código)
+                     https://seaborn.pydata.org/ (librería para visualización más usada en python)
+                     plo.ly (dynamic visualizations)
+    - Panel interactivo para el usuario, con visualizaciones ad-hoc y escogidas por panel: https://shiny.posit.co/py/gallery/
+
+
+IMPORTANTE!!! -> Libro Series temporales:
+    Forecasting: Principles and Practice (https://otexts.com/fpp3/)
+    Leer los siguientes capitlos del libro: 1, 2, 3, 4, 5, ¿6? y 9
+       
+       
+FORECASTING: Principles and Practice
+
+    1. Getting Started
+    2. Time Series Graphics 
+    3. Time Serie Descomposition
+    4. Time Serie Features
+    5. The Forecaster's Toolbox
+    ¿6?. Judgmental Forecast
+    9. ARIMA Models
